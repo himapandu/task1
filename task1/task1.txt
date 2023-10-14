@@ -1,2 +1,4 @@
 1st file
 master branch
+file in
+slave

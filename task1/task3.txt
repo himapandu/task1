@@ -1,2 +1,4 @@
 3rd file
 master branch
+file in
+slave
